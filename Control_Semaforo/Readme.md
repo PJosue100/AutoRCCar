@@ -1,0 +1,1 @@
+Este sketch de Arduino controla las luces del semáforo.

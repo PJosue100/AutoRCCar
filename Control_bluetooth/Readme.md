@@ -1,0 +1,1 @@
+Este sketch de Arduino controla los motores utilizando el modulo Bluetooth. También controla la velocidad de los motores.
